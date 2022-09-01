@@ -1,4 +1,4 @@
-const gitRemoteOriginUrl = require("git-remote-origin-url");
+const gitRemoteOriginUrl = require("git-remote-origin-url"); MediaMetadata
 const GitUrlParse = require("git-url-parse");
 const fs = require('fs');
 const os = require('os');
